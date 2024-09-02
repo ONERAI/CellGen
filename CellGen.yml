@@ -1,4 +1,4 @@
-name: genex
+name: CellGen
 channels:
   - pyg
   - pytorch
@@ -599,4 +599,3 @@ dependencies:
       - xarray-einstats==0.6.0
       - xgboost==2.0.3
       - yarl==1.9.2
-prefix: /home/rom/miniforge3/envs/genex
